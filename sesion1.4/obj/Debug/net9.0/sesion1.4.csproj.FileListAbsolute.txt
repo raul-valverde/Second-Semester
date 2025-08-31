@@ -1,0 +1,15 @@
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\bin\Debug\net9.0\sesion1.4.exe
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\bin\Debug\net9.0\sesion1.4.deps.json
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\bin\Debug\net9.0\sesion1.4.runtimeconfig.json
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\bin\Debug\net9.0\sesion1.4.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\bin\Debug\net9.0\sesion1.4.pdb
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.AssemblyInfoInputs.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.AssemblyInfo.cs
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.csproj.CoreCompileInputs.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.sourcelink.json
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\refint\sesion1.4.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.pdb
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\sesion1.4.genruntimeconfig.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.4\obj\Debug\net9.0\ref\sesion1.4.dll
