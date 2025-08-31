@@ -1,0 +1,14 @@
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\bin\Debug\net9.0\Ejerciciotreeswitch.exe
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\bin\Debug\net9.0\Ejerciciotreeswitch.deps.json
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\bin\Debug\net9.0\Ejerciciotreeswitch.runtimeconfig.json
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\bin\Debug\net9.0\Ejerciciotreeswitch.dll
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\bin\Debug\net9.0\Ejerciciotreeswitch.pdb
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.AssemblyInfoInputs.cache
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.AssemblyInfo.cs
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.csproj.CoreCompileInputs.cache
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.dll
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\refint\Ejerciciotreeswitch.dll
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.pdb
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\Ejerciciotreeswitch.genruntimeconfig.cache
+C:\Users\MT\Desktop\Ejercicios\Ejerciciotreeswitch\obj\Debug\net9.0\ref\Ejerciciotreeswitch.dll

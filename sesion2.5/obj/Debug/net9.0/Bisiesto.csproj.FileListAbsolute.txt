@@ -1,0 +1,14 @@
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\bin\Debug\net9.0\Bisiesto.exe
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\bin\Debug\net9.0\Bisiesto.deps.json
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\bin\Debug\net9.0\Bisiesto.runtimeconfig.json
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\bin\Debug\net9.0\Bisiesto.dll
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\bin\Debug\net9.0\Bisiesto.pdb
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.AssemblyInfoInputs.cache
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.AssemblyInfo.cs
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.dll
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\refint\Bisiesto.dll
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.pdb
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\Bisiesto.genruntimeconfig.cache
+C:\Users\MT\Desktop\Ejercicios\ejercicio 5\Bisiesto\obj\Debug\net9.0\ref\Bisiesto.dll
