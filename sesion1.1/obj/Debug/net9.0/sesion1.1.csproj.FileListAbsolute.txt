@@ -1,0 +1,30 @@
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\bin\Debug\net9.0\sesion1.1.exe
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\bin\Debug\net9.0\sesion1.1.deps.json
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\bin\Debug\net9.0\sesion1.1.runtimeconfig.json
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\bin\Debug\net9.0\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\bin\Debug\net9.0\sesion1.1.pdb
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.AssemblyInfoInputs.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.AssemblyInfo.cs
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.csproj.CoreCompileInputs.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.sourcelink.json
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\refint\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.pdb
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\sesion1.1.genruntimeconfig.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\sesion1.1\obj\Debug\net9.0\ref\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\bin\Debug\net9.0\sesion1.1.exe
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\bin\Debug\net9.0\sesion1.1.deps.json
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\bin\Debug\net9.0\sesion1.1.runtimeconfig.json
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\bin\Debug\net9.0\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\bin\Debug\net9.0\sesion1.1.pdb
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.AssemblyInfoInputs.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.AssemblyInfo.cs
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.csproj.CoreCompileInputs.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.sourcelink.json
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\refint\sesion1.1.dll
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.pdb
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\sesion1.1.genruntimeconfig.cache
+C:\Users\Natanael_VR\Desktop\Porgramación\Sesion uno\sesion1.1\obj\Debug\net9.0\ref\sesion1.1.dll
