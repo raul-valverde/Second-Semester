@@ -1,0 +1,15 @@
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\bin\Debug\net9.0\sesion3.1.exe
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\bin\Debug\net9.0\sesion3.1.deps.json
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\bin\Debug\net9.0\sesion3.1.runtimeconfig.json
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\bin\Debug\net9.0\sesion3.1.dll
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\bin\Debug\net9.0\sesion3.1.pdb
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.AssemblyInfoInputs.cache
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.AssemblyInfo.cs
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.csproj.CoreCompileInputs.cache
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.sourcelink.json
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.dll
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\refint\sesion3.1.dll
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.pdb
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\sesion3.1.genruntimeconfig.cache
+c:\Users\Natanael_VR\Desktop\Porgramación\Sesion tres\sesion3.1\obj\Debug\net9.0\ref\sesion3.1.dll
