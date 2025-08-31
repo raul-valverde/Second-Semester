@@ -1,0 +1,14 @@
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.AssemblyInfoInputs.cache
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.AssemblyInfo.cs
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.csproj.CoreCompileInputs.cache
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\bin\Debug\net9.0\Semana.exe
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\bin\Debug\net9.0\Semana.deps.json
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\bin\Debug\net9.0\Semana.runtimeconfig.json
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\bin\Debug\net9.0\Semana.dll
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\bin\Debug\net9.0\Semana.pdb
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.dll
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\refint\Semana.dll
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.pdb
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\Semana.genruntimeconfig.cache
+C:\Users\MT\Desktop\Ejercicios\Ejercicio 2\Semana\obj\Debug\net9.0\ref\Semana.dll
